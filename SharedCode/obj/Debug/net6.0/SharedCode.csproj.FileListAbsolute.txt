@@ -1,0 +1,12 @@
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\bin\Debug\net6.0\SharedCode.deps.json
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\bin\Debug\net6.0\SharedCode.dll
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\bin\Debug\net6.0\SharedCode.pdb
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\obj\Debug\net6.0\SharedCode.csproj.AssemblyReference.cache
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\obj\Debug\net6.0\SharedCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\obj\Debug\net6.0\SharedCode.AssemblyInfoInputs.cache
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\obj\Debug\net6.0\SharedCode.AssemblyInfo.cs
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\obj\Debug\net6.0\SharedCode.csproj.CoreCompileInputs.cache
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\obj\Debug\net6.0\SharedCode.dll
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\obj\Debug\net6.0\refint\SharedCode.dll
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\obj\Debug\net6.0\SharedCode.pdb
+D:\TranVinhQuocHuy_result\ConsoleApp1\SharedCode\obj\Debug\net6.0\ref\SharedCode.dll

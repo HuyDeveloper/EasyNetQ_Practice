@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "p3vVt7A7a3b+V2xUFXjpu9f+BBQUP5w7zjAqmjZa63kmJSwlBL+PJGDZi7qEU3o5NGLdzkx4HOL2cutDEepx8Q==",
+  "success": true,
+  "projectFilePath": "D:\\TranVinhQuocHuy_result\\ConsoleApp1\\Receive\\Receive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinhh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vinhh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vinhh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vinhh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
